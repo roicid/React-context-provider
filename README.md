@@ -1,6 +1,6 @@
 #  Practicing Context UseContext and Provider ,
 # To see please install npm and run npm start ,
-# pd: i need to adjust css :P 
+
 
 
 
