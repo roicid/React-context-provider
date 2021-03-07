@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#  Practicing Context UseContext and Provider ,
+# To see please install npm and run npm start ,
+# pd: i need to adjust css :P 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
